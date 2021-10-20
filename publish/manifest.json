@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.18cfd4875905e7ed8d33038c575b1b38.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.0475f68146a8982e0478197bf5b012b4.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.265a0411325f429aedd9c294c148193c.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.6ccb8ac97eebd525c22d08fc0b32312c.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.f4fdd4c61de3b4cd5bb3646fb5a58b24.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Camisaria Blue Kids",
+  "short_name": "Blue Kids",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "loja online de roupa social infantil temática para bebê e crianças",
+  "background_color": "#ffffff",
+  "theme_color": "#044dc3"
+}

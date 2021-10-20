@@ -1,0 +1,254 @@
+[[redirects]]
+  from = "/grid/10007"
+  to = "/conjuntos"
+  status = 301
+  force = true
+  
+  [[ redireciona ]]
+  from = "/roupa-festa-infantil-camisa-curta-fundo-do-mar-com-gravata-e-suspensorio"
+  to = "/conjunto-infantil-camisa-fundo-do-mar-4328"
+  status = 301
+
+[[redirects]]
+  from = "/scripts/*"
+  to = "/index"
+  status = 301
+
+[[redirects]]
+  from = "/grid/*"
+  to = "/index"
+  status = 301
+
+[[redirects]]
+  from = "/content/*"
+  to = "/index"
+  status = 301
+
+[[redirects]]
+  from = "/marca/100*"
+  to = "/index"
+  status = 301
+
+[[redirects]]
+  from = "/contate-nos"
+  to = "/index"
+  status = 301
+
+[[redirects]]
+  from = "/conjunto-tematico-manga-curta-dinossauros-com-gravata-e-suspensorio"
+  to = "/conjunto-com-bermuda"
+  status = 301
+
+[[redirects]]
+  from = "/10003"
+  to = "/index"
+  status = 301
+
+[[redirects]]
+  from = "/159-calca"
+  to = "/conjunto-com-calca"
+  status = 301
+
+[[redirects]]
+  from = "/conjunto-com-bermuda/58-conjunto-infantil-camisa-manga-curta-dinossauros-e-bermuda-azul.html"
+  to = "/conjunto-com-bermuda"
+  status = 301
+
+[[redirects]]
+  from = "/conjunto-com-bermuda/68-conjunto-camisa-social-menino-manga-curta-circo-com-bermuda.html"
+  to = "/conjunto-com-bermuda"
+  status = 301
+
+[[redirects]]
+  from = "/home/101-conjunto-camisa-manga-curta-branca-com-bermuda-e-cinto.html"
+  to = "/conjunto-com-bermuda"
+  status = 301
+
+[[redirects]]
+  from = "/home/86-camisa-social-infantil-manga-curta-balao-azul.html"
+  to = "/conjunto-com-bermuda"
+  status = 301
+
+[[redirects]]
+  from = "/conjunto-com-bermuda/8-conjunto-camisa-social-infantil-safari-bermuda-verde-e-cinto.html"
+  to = "/conjunto-com-bermuda"
+  status = 301
+
+[[redirects]]
+  from = "/conjunto-com-bermuda/52-conjunto-camisa-social-infantil-safari-com-bermuda.html?search"
+  to = "/conjunto-com-bermuda"
+  status = 301
+
+[[redirects]]
+  from = "/conjunto-com-bermuda/49-conjunto-camisa-social-infantil-manga-curta-baloes-com-bermuda.html"
+  to = "/conjunto-com-bermuda"
+  status = 301
+
+[[redirects]]
+  from = "/conjunto-camisa-social-infantil-safari-e-bermuda-branca"
+  to = "/conjunto-com-bermuda"
+  status = 301
+
+[[redirects]]
+  from = "/157-camisas"
+  to = "/conjunto-com-bermuda"
+  status = 301
+
+[[redirects]]
+  from = "/14-bermudas"
+  to = "/conjunto-com-bermuda"
+  status = 301
+
+[[redirects]]
+  from = "/12-conjuntos"
+  to = "/conjuntos"
+  status = 301
+
+[[redirects]]
+  from = "/conjunto-camisa-social-manga-curta-fundo-do-mar-com-bermuda"
+  to = "/roupa-festa-infantil-camisa-curta-fundo-do-mar-com-gravata-e-suspensorio"
+  status = 301
+
+[[redirects]]
+  from = "/conjunto-com-calca/146-conjunto-camisa-social-infantil-manga-curta-jeans-com-calca-branca.html"
+  to = "/conjunto-com-calca"
+  status = 301
+
+[[redirects]]
+  from = "/158-body"
+  to = "/body"
+  status = 301
+
+[[redirects]]
+  from = "/15-bodies"
+  to = "/body"
+  status = 301
+
+[[redirects]]
+  from = "/conjunto-com-bermuda/62-conjunto-camisa-social-infantil-manga-curta-marinheiro-com-bermuda-vermelho.html"
+  to = "/conjunto-roupa-festa-infantil-bebe-menino-marinheiro"
+  status = 301
+
+[[redirects]]
+  from = "/camisas/31-camisa-social-menino-blue-kids-circo-azul.html"
+  to = "/camisa-social-infantil-tematica-manga-curta-circo-azul"
+  status = 301
+
+ [[redirects]]
+  from = "/conjunto-camisa-social-infantil-manga-curta-safari-e-bermuda"
+  to = "/conjunto-tematico-safari-manga-curta-com-gravata-e-suspensorio"
+  status = 301
+
+[[redirects]]
+  from = "/conjunto-com-bermuda/145-conjunto-camisa-social-infantil-manga-curta-jeans-com-bermuda-branca.html"
+  to = "/roupa-de-festa-pequeno-principe-com-gravata-e-suspensorio"
+  status = 301
+
+[[redirects]]
+  from = "/conjunto-com-bermuda/71-conjunto-camisa-social-infantil-circo-bermuda-vermelha.html"
+  to = "/camisa-social-infantil-tematica-manga-curta-circo-azul"
+  status = 301
+
+[[redirects]]
+  from = "/3-camisas"
+  to = "/camisa-social"
+  status = 301
+
+[[redirects]]
+  from = "/camisa-social"
+  to = "/camisa-social"
+  status = 301
+
+[[redirects]]
+  from = "/161-conjunto-com-bermuda"
+  to = "/conjunto-com-bermuda"
+  status = 301
+
+[[redirects]]
+  from = "/home/17-camisa-social-infantil-manga-curta-balao-vermelho.html"
+  to = "/roupa-festa-infantil-manga-curta-baloes-vermelhos-com-bermuda"
+  status = 301
+
+[[redirects]]
+  from = "/conjunto-camisa-astronauta-com-calca-suspensorio-e-gravata?mprice=159"
+  to = "/conjunto-camisa-astronauta-com-calca-suspensorio-e-gravata"
+  status = 301
+
+[[redirects]]
+  from = "/conjunto-camisa-astronauta-com-calca-suspensorio-e-gravata?mprice=145"
+  to = "/conjunto-camisa-astronauta-com-calca-suspensorio-e-gravata"
+  status = 301
+
+[[redirects]]
+  from = "/roupa-festa-infantil-astronauta-com-bermuda?mprice=135"
+  to = "/roupa-festa-infantil-astronauta-com-bermuda"
+  status = 301
+
+[[redirects]]
+  from = "/roupa-festa-infantil-astronauta-com-bermuda?mprice=120"
+  to = "/roupa-festa-infantil-astronauta-com-bermuda"
+  status = 301
+
+[[redirects]]
+  from = "/conjunto-camisa-astronauta-com-bermuda-suspensorio-e-gravata?mprice=145"
+  to = "/roupa-festa-infantil-astronauta-com-bermuda"
+  status = 301
+
+ [[redirects]]
+  from = "/conjunto-camisa-astronauta-com-bermuda-suspensorio-e-gravata?mprice=125.9"
+  to = "/roupa-festa-infantil-astronauta-com-bermuda"
+  status = 301
+
+ [[redirects]]
+  from = "/162-conjunto-com-calca"
+  to = "/conjunto-com-calca"
+  status = 301
+
+[build]
+  publish = "publish"
+  functions = "functions-zip"
+
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/ssr?slug=:splat"
+  status = 200
+
+[[headers]]
+  for = "/storefront.*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/storefront.js"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/storefront.css"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/checkout.*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/checkout.js"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/chunk.*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=300, s-maxage=60, must-revalidate"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400, s-maxage=600"
