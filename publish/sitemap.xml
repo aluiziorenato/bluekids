@@ -1886,6 +1886,12 @@
     </url>
   
     <url>
+      <loc>https://www.bluekids.com.br/blue-kids</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.bluekids.com.br/estampas-digital</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1959,12 +1965,6 @@
   
     <url>
       <loc>https://www.bluekids.com.br/colecao-roupa-arca-noe</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.bluekids.com.br/blue-kids</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -2072,6 +2072,12 @@
     </url>
   
     <url>
+      <loc>https://www.bluekids.com.br/404</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.bluekids.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2081,12 +2087,6 @@
       <loc>https://www.bluekids.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.bluekids.com.br/404</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
