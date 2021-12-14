@@ -2,255 +2,33 @@
 // font
 body {
   font-family: "Arial", sans-serif;
-}
-// centralizando
-.products-carousel h3,
-.products-carousel,
-.product-card__prices,
-.product-card h3,
-.product-card .product-card__prices,
-.product-card .prices__discount {
-  text-align: center;
-}
-.search-engine .prices.product-card__prices {
-  text-align: unset;
-}
-// tob-bar
-a.top-bar__countdown {
-  background-color: rgb(126, 178, 242) !important;
-}
 
-// search
-#search-form {
-  border: 1px solid #ced4da;
-  border-radius: 0.3rem;
 }
-.header__search-btn svg {
-  color: #0303a6;
-}
-
-// aumentar botao comprar
-.product__buy button {
-  padding: 0.5rem 3rem;
-}
-// variations border css
-.variations__option {
-  border: 2px solid #fcfcfc !important;
-  background-color: rgb(217, 237, 255) !important;
-}
-.variations__option--selected:not(:disabled) {
-  border-color: var(--secondary) !important;
-}
-//cart freight
-.shipping-calculator__services .list-group-item.active {
-  background-color: rgb(35, 166, 215);
-}
-.shipping-calculator__services {
+.header__row {
   width: 100%;
-  font-size: 1rem;
+  background-color: whitesmoke  !important
 }
 
-div#description {
-  font-size: 90%;
-}
-
-#product__picture {
-  width: 70%;
-}
-
-.footer__credits,
-.footer__contacts,
-.footer__title {
-  font-size: 80%;
-}
-
-.prices__value {
-  color: rgb(0, 19, 140);
-}
-
-.prices__installments {
-  color: rgb(255, 165, 0);
-}
-
-#product-block .product__buy {
-  padding-top: 1rem;
-}
-img#header__logo {
-  height: auto;
-  width: 85px;
-}
-span.variations__grid-title.h5 {
-  font-size: 70%;
-}
-
-span.variations__value variations__value--empty {
-  font-size: 60%;
-}
-
-// pinning buy button on the screen - Aluizio
-
-button.btn.btn-lg.btn-primary {
-  width: 100%;
-  opacity: 1;
-  background-color: #149600;
-}
-
-//size h1
-h1 {
-  font-size: 1.5rem !important;
-}
-
-a.btn.btn-secondary {
-  width: 100%;
-  height: 3rem;
-  font-size: 14px;
-  color: rgb(13, 0, 0);
-  background-color: rgb(255, 255, 255);
-}
-
-div.progress-bar.progress-bar-striped {
-  background-color: rgb(255, 187, 0);
-}
-
-.product__free-shipping-from {
-  color: rgb(61, 98, 158);
-  font-size: 1.3rem;
-}
-
-.prices__compare {
-  color: rgb(61, 98, 158);
-}
-
-.product__sku {
-  visibility: visible;
-  margin: 2px;
-  padding: 0rem;
-}
-
-.product__discount {
-  color: rgb(61, 98, 158);
+.product__name {
   font-size: 1.5rem;
+
 }
 
-.products-carousel__title {
-  color: rgb(61, 98, 158);
-  text-decoration-style: double;
+strong.prices__value{
+
+  font-size: 1.5rem  !important
+} 
+span.variations__grid-title h5 {
+  font-size: 1rem  !important
+}
+span.variations__value {
+
+display: none !important
 }
 
-div.timer__notes {
-  background-color: rgb(255, 187, 0);
-  color: black;
-}
-
-.cart .row .col-md-7 .cart__list {
-  order: 1;
-}
-
-.cart .row .col-md-7 .cart__back {
-  order: 2;
-}
-
-.cart .row .col-md-7 .recommended-items {
-  order: 3;
-}
-
-//tamanho botao vitrine comprar
-.product-card--small .product-card__buy,
-.product-card .spinner-border {
-  bottom: var(--spacer-2);
-  right: var(--spacer-4);
-}
-
-//botao comprar
-.btn-primary {
-  background-color: rgb(40, 167, 69);
-  border-color: rgb(40, 167, 69);
-}
-.product-card__buy.fade {
-  opacity: 1 !important;
-}
-.product-card span {
-  text-align: center;
-}
-.product-card__buy {
-  display: flex;
-  justify-content: center;
-}
-
-//menu horizontal
-.header__row .header__nav a {
-  padding-right: 1rem;
-  font-weight: 600;
-  color: #333;
-}
-
-//border arredondada img
-.banner picture img {
-  border-radius: 5px !important;
-}
-
-// font style
-body {
-  font-family: "Open Sans", sans-serif;
-}
-
-#main {
-  overflow-x: hidden !important;
-}
-i.fas.fa-user::before {
-  color: rgb(0, 0, 255);
-}
-top-bar {
-  color: rgb(173, 216, 230);
-}
-
-header#header.header {
-  color: rgb(173, 216, 230);
-}
-#product-actions .product__buy {
-  margin-top: 1.5rem;
-}
-.products-carousel h3,
-.products-carousel strong,
-.products-carousel .product-card__prices,
-.product-card h3,
-.product-card .product-card__prices,
-.product-card .prices__discount {
-  text-align: center;
-}
-.responsive-baner:last-child {
-  padding-bottom: 0px !important;
-  margin-bottom: -1em !important;
-}
-// Footer
-.footer__title + ul.list-unstyled > li:first-child span,
-.footer__title + ul.list-unstyled > li:first-child a {
-  font-size: 20px !important;
-  color: #2c0e7a !important;
-}
-.footer__title + p {
-  color: #0d0d0d !important;
-}
-.footer .col-lg-auto {
-  width: 20%;
-}
-.footer__title + ul.list-unstyled > li:nth-child(2) > a {
-  color: #2c0e7a !important;
-}
-.footer__credits {
-  border-top: 1px solid #000;
-}
-.footer__title {
-  color: #2c0e7a !important;
-}
-.footer__credits {
-  text-align: center;
-}
-.footer__links svg {
-  display: none !important;
-}
-// desktop acima de 14 polegadas
-@media screen and (min-width: 1368px) {
+.gallery {
+  display: flexbox !important
+   
 }
 
 //desktop normal size
@@ -268,5 +46,4 @@ header#header.header {
 @media (min-width: 767px) {
 #product-description .html-clearfix img {
 width: 50%
-}
 }
